@@ -12,14 +12,14 @@
   
 - ⌨️  I'm currently using...
 
-  - Java/Kotlin
-  - Spring Boot, OpenAPI
-  - Kafka, gRPC, REST
-  - Neo4j graph DB, Postges, Oracle
-  - Docker, ECS, EC2
+  - ***Languages*** - Java, Kotlin, SQL, Shell
+  - ***Frameworks*** - Spring Boot, OpenAPI
+  - ***Technologies*** - Kafka, gRPC, REST
+  - ***Databases*** - Neo4j graph DB, Postges, Oracle
+  - ***Tools*** - Docker Compose, ECS, EC2
 
 - 🌱  I’m currently learning...
 
   - ***New languages*** - Go, Rust
   
-  - ***Technologies*** - Neo4j Graphing DB, React framework
+  - ***Technologies*** - React framework
