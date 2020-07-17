@@ -2,6 +2,16 @@
 
 ### I'm a software engineer, specialising in leading architecture and implementation of real-time event based microservice solutions and API design.
 
-- 🧳   Currently I'm working on AML (Anti Money Laundering) services within a large bank where I lead a team in building out new real time functionality in the cloud ☁️ 
+- 🧳   Currently I'm working...
 
-- 🌱 I’m currently learning Go, React and Neo4j Graph database
+  - ***Eventing Microservices Architecture*** - Leading the design and implementation of several real time, high throughput event based AML (Anti Money Laundering) systems for use in a large bank
+
+  - ***Leading POCs*** - Delivered from the ground up a state of the art risk modelling system backed by a graph database in order to analyse threats in real time for fraud detection
+  
+  - ***Mentoring*** - Directed a large team of developers, conducting code reviews and ensuring a high standard of code, while producing simple, eﬃcient, reusable code – mindful of new technologies, paradigms, and development methodologies. 
+
+- 🌱 I’m currently learning...
+
+  - ***New languages*** - Go, Rust
+  
+  - ***Technologies*** - Neo4j Graphing DB, React framework, Kafka streams
