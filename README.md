@@ -22,4 +22,4 @@
 
   - ***New languages*** - Go, Rust
   
-  - ***Technologies*** - React framework
+  - ***Technologies*** - React framework, Serverless
