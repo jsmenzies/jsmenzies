@@ -13,10 +13,10 @@
 - ⌨️  I'm currently using...
 
   - ***Languages*** - Java, Kotlin, SQL, Shell
-  - ***Frameworks*** - Spring Boot, OpenAPI
-  - ***Technologies*** - Kafka, gRPC, REST
-  - ***Databases*** - Neo4j graph DB, Postges, Oracle
-  - ***Tools*** - Docker Compose, ECS, EC2
+  - ***Frameworks*** - Spring Boot, OpenAPI, Serverless
+  - ***Technologies*** - Kafka, Lambda, SQS, 
+  - ***Databases*** - Neo4j, Postges, Oracle, MySQL, DynamoDB
+  - ***Tools*** - Docker Compose, ECS, EC2, 
 
 - 🌱  I’m currently learning...
 
