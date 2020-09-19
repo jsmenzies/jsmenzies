@@ -12,14 +12,14 @@
   
 - ⌨️  I'm currently using...
 
-  - ***Languages*** - Java, Kotlin, SQL, Shell
+  - ***Languages*** - Java, Typescript, Rust, Kotlin, Go
   - ***Frameworks*** - Spring Boot, OpenAPI, Serverless
-  - ***Technologies*** - Kafka, Lambda, SQS, 
-  - ***Databases*** - Neo4j, Postges, Oracle, MySQL, DynamoDB
-  - ***Tools*** - Docker Compose, ECS, EC2, 
+  - ***Technologies*** - Kafka, AWS Lambda/RDS/SQS/ECS, GCP Firebase/Cloud functions/Pub Sub
+  - ***Databases*** - Neo4j, Postges, Redis, Oracle, DynamoDB
+  - ***Tools*** - Docker Compose, Intellij, Webstorm, 
 
 - 🌱  I’m currently learning...
 
   - ***New languages*** - Go, Rust
   
-  - ***Technologies*** - React framework, Serverless
+  - ***Technologies*** - React
