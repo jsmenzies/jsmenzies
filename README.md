@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a software engineer, specialising in leading architecture and implementation of real-time event based microservice solutions and API design.
+### I'm a Lead Software Engineer, specialising in the architecting and implementation of real-time event based microservice solutions and API design.
 
 - 🧳  I'm currently working on...
 
@@ -12,14 +12,14 @@
   
 - ⌨️  I'm currently using...
 
-  - ***Languages*** - Java, Typescript, Rust, Kotlin, Go
+  - ***Languages*** - Java 17, Typescript, Rust
   - ***Frameworks*** - Spring Boot, OpenAPI, Serverless
-  - ***Technologies*** - Kafka, AWS Lambda/RDS/SQS/ECS, GCP Firebase/Cloud functions/Pub Sub
+  - ***Technologies*** - Kafka, AWS Lambda/RDS/SQS/ECS, GCP Firebase/Cloud Functions/Pub Sub
   - ***Databases*** - Neo4j, Postges, Redis, Oracle, DynamoDB
-  - ***Tools*** - Docker Compose, Intellij, Webstorm, 
+  - ***Tools*** - Docker Compose, Intellij, Webstorm
 
 - 🌱  I’m currently learning...
 
-  - ***New languages*** - Go, Rust
+  - ***New languages*** - Rust, Typescript
   
   - ***Technologies*** - React
